@@ -29,7 +29,7 @@ I'm a senior year computer science Ph.D. student at Indiana University. My resea
 ---
 ![mask](/images/face%20mask.svg) 
 
-![mask](https://drive.google.com/drive/folders/1XH2ycmTj6hYOlBGPaUgOhffBD_sWftM9?usp=sharing)
+![mask](https://drive.google.com/file/d/1UDxqxh7zI4f_PMSp1zLjhl0LiVC9qZmH/view?usp=sharing)
 
 ![distance](/images/social%20distancing%2002.svg) ![wash](/images/wash%20hands.svg)
 ### stay SMART, stay SAFE! 
