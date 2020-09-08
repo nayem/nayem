@@ -18,7 +18,6 @@ I'm a senior year computer science Ph.D. student at Indiana University. My resea
 
 
 [![twitter](/images/twitter-fill.svg)](https://twitter.com/i_Nayem)&nbsp;&nbsp;
-[![twitter](https://www.lingoapp.com/79309/a/07YzvN?asset_token=6U0E6F7ManJGA64e4jSNZHAzNFwknHUOwi2_zHERB4M&kit_token=aM-WJdDSlrhx7xlWe_FPxjB8cBQui35EtvP6j440OoE&v=0)](https://twitter.com/i_Nayem)&nbsp;&nbsp;
 [![Linkedin](/images/linkedin-fill.svg)](https://linkedin.com/in/knayem/)&nbsp;&nbsp;
 [![facebook](/images/facebook-box-fill.svg)](https://facebook.com/km.nayem)&nbsp;&nbsp;
 [![youtube](/images/youtube-fill.svg)](https://youtube.com/channel/UCKM68KMhgSCqfM3NLqfOxWA)&nbsp;&nbsp;
@@ -28,7 +27,11 @@ I'm a senior year computer science Ph.D. student at Indiana University. My resea
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=readme.md)
 
 ---
-![mask](/images/face%20mask.svg) ![distance](/images/social%20distancing%2002.svg) ![wash](/images/wash%20hands.svg)
+![mask](/images/face%20mask.svg) 
+
+![mask](https://drive.google.com/drive/folders/1XH2ycmTj6hYOlBGPaUgOhffBD_sWftM9?usp=sharing)
+
+![distance](/images/social%20distancing%2002.svg) ![wash](/images/wash%20hands.svg)
 ### stay SMART, stay SAFE! 
 
 
