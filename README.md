@@ -27,7 +27,7 @@ I'm a senior year computer science Ph.D. student at Indiana University. My resea
 [![mail-fill](https://user-images.githubusercontent.com/2290205/92532954-7596e800-f1ff-11ea-97e2-f7ede43308ef.png)
 ][6]
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=readme.md)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nayem.readme.md)
 
 [1]: https://twitter.com/i_Nayem
 [2]: https://linkedin.com/in/knayem
