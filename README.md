@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi there, I'm Nayem! 👋
+
+
+[![Twitter](https://img.shields.io/twitter/follow/i_Nayem?style=social&label=%20%40i_Nayem)](https://twitter.com/i_Nayem) [![Github](https://img.shields.io/github/followers/nayem?style=social&label=%20%40nayem)](https://github.com/nayem)
+
+I'm a computer science Ph.D. student. My research focuses on speech enhancement using deep machine learning techniques. 
+
+
+### Things going on 🎃
+
+- 🔊 Enhancing speech with quanlized target and incorporting language model.
+- 🌱 Learning how to build efficient tf input pipeline.
+- 📫 Responding to emails, knayem@iu.edu
+
 
 <!--
 **nayem/nayem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
