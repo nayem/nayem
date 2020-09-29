@@ -16,25 +16,25 @@ I'm a senior year computer science Ph.D. student at Indiana University. My resea
 
 ###### Let's connect and chat!
 
-[![twitter-fill](https://user-images.githubusercontent.com/2290205/92532297-0371d380-f1fe-11ea-8815-213dff7f1f77.png)][1]&nbsp;&nbsp;
-[![linkedin-fill](https://user-images.githubusercontent.com/2290205/92532775-09b47f80-f1ff-11ea-8dec-e481783aa19e.png)][2]&nbsp;&nbsp;
-[![facebook-box-fill](https://user-images.githubusercontent.com/2290205/92532864-47b1a380-f1ff-11ea-83c5-a43eaf9209a2.png)
-][3]&nbsp;&nbsp;
-[![youtube-fill](https://user-images.githubusercontent.com/2290205/92532898-57c98300-f1ff-11ea-9097-1c182300fbec.png)
-][4]&nbsp;&nbsp;
+[![linkedin-fill](https://user-images.githubusercontent.com/2290205/92532775-09b47f80-f1ff-11ea-8dec-e481783aa19e.png)][1]&nbsp;&nbsp;
+[![google-scholar-logo_28](https://user-images.githubusercontent.com/2290205/94609078-57eff800-026c-11eb-8a08-54434f2adc4e.png)][2]&nbsp;&nbsp;
 [![global-fill](https://user-images.githubusercontent.com/2290205/92533009-94957a00-f1ff-11ea-8dec-4e88a1ff7fe1.png)
-][5]&nbsp;&nbsp;
-[![mail-fill](https://user-images.githubusercontent.com/2290205/92532954-7596e800-f1ff-11ea-97e2-f7ede43308ef.png)
-][6]
+][3]&nbsp;&nbsp;
+[![facebook-box-fill](https://user-images.githubusercontent.com/2290205/92532864-47b1a380-f1ff-11ea-83c5-a43eaf9209a2.png)
+][4]&nbsp;&nbsp;
+[![twitter-fill](https://user-images.githubusercontent.com/2290205/92532297-0371d380-f1fe-11ea-8815-213dff7f1f77.png)][5]&nbsp;&nbsp;
+[![youtube-fill](https://user-images.githubusercontent.com/2290205/92532898-57c98300-f1ff-11ea-9097-1c182300fbec.png)][6]&nbsp;&nbsp;
+[![mail-fill](https://user-images.githubusercontent.com/2290205/92532954-7596e800-f1ff-11ea-97e2-f7ede43308ef.png)][7]
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nayem.readme.md)
 
-[1]: https://twitter.com/i_Nayem
-[2]: https://linkedin.com/in/knayem
-[3]: https://facebook.com/km.nayem
-[4]: https://youtube.com/channel/UCKM68KMhgSCqfM3NLqfOxWA
-[5]: https://sites.google.com/site/khanokarmdnayem
-[6]: mailto:knayem@iu.edu?subject=[GitHub]%20Hi%20there!
+[1]: https://linkedin.com/in/knayem
+[2]: https://scholar.google.com/citations?user=-MBZ1KMAAAAJ&hl=en
+[3]: https://nayem.github.io
+[4]: https://facebook.com/km.nayem
+[5]: https://twitter.com/i_Nayem
+[6]: https://youtube.com/channel/UCKM68KMhgSCqfM3NLqfOxWA
+[7]: mailto:knayem@iu.edu?subject=[GitHub]%20Hi%20there!
 
 ---
 ![face mask](https://user-images.githubusercontent.com/2290205/92533157-db836f80-f1ff-11ea-800b-25c0e7da8770.png)
